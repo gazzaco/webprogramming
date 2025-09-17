@@ -141,7 +141,7 @@ HTML 문서의 구성 원소는 태그들이다. 목적에 따라 적합한 태�
 |width|이미지가 출력되는 너비, 생략되면 원본 이미지의 폭. 픽셀수.|
 |height|이미지를 출력되는 높이, 생략되면 원본 이미지의 너비. 픽셀 수.|
 
-- ex) <img src="media/Elvis.jpg" width="150" height="200" alt="사진없음">
+- ex) `<img src="media/Elvis.jpg" width="150" height="200" alt="사진없음">`
 
 ### 2) 리스트 만들기, <ol>, <ul>, <dl>
 - 
