@@ -1,0 +1,36 @@
+body {
+    background-color: aliceblue;
+}
+
+section {
+    background-color: pink;
+    margin-left: 10px;
+    margin-right : 10px;
+}
+
+footer {
+    background-color: orange;
+    border-radius: 10px;
+}
+
+p {
+    font-family: "휴먼편지체";
+    font-size: 1em;
+    text-indent: 1em;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-shadow: 3px 3px 3px skyblue;
+}
+
+.formspan {
+    font-family: "고딕";
+    font-weight: bold;
+    color : blue;
+}
