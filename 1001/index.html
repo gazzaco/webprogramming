@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "utf-8">
+        <title>인사하기</title>
+    </head>
+    <body>
+        <script>
+            let ret = prompt("이름을 입력하세요", "이름");
+            if(ret == null){
+                //취소, 다이얼로그 닫음
+            }
+            else if(ret == ""){
+                //문자열입력x 확인버튼 누림sd
+            }
+            else{
+                document.write("<h1>안녕하세요 " + ret + "!</h1>");
+                //ret에는 사용자가 입력한 문자열
+            }
+        </script>
+    </body>
+</html>
